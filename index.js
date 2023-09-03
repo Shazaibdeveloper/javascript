@@ -1,4 +1,3 @@
-var num = 2;
-var num2 = num++;
-console.log(num);
-console.log(num2);
+a = 1;
+b = "33";
+console.log(a == b);
