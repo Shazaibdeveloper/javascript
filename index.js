@@ -1,3 +1,3 @@
-a = "a";
-b = "b";
+a = 2;
+b = 2;
 console.log(a === b);
