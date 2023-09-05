@@ -1,3 +1,5 @@
-a = 2;
-b = 2;
-console.log(a === b);
+function test() {
+  return 2 + 2;
+}
+
+test();
